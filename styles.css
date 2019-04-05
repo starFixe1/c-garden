@@ -143,7 +143,8 @@ footer > div > a{
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    height: 1000px; 
+    height: 800px; 
+  
     
 }
 
@@ -151,6 +152,7 @@ footer > div > a{
     width: 50%;
     height: 800px;
     background-color: blue;
+    
 }
 
 .green{
