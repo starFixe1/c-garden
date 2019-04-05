@@ -2,7 +2,8 @@
 
 
 #logo{
-    position:absolute;
+    position: absolute;
+    float: left;
     top: 0px;
     Background-color: black;
     border: solid thick white;
