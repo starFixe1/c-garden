@@ -122,3 +122,34 @@ footer > div > a{
     margin-bottom:10px;
 }
 
+.activity{
+    height: 400px;
+}
+.center-piece{
+    width: 80%;
+    margin: 20px auto;
+    font-family:Helvetica, sans-serif;
+    border: 1px solid black;
+    padding: 10px;
+    clear: both;
+    overflow: auto;
+
+}
+
+.red{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.green{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+
+.blue{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
