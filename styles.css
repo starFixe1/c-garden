@@ -9,6 +9,15 @@
     border: solid thick white;
     margin-left:20px;
 }
+
+.center-logo{
+    position: absolute;
+    float: right;
+    top: 0px;
+    Background-color: black;
+    border: solid thick white;
+    margin-right: 20px;
+}
 .fullwidth{
     width: 100%;
     max-width: 100%;
@@ -130,13 +139,13 @@ footer > div > a{
 .banner-color1{
     background-color: #AABD8D;
     width: 100%;
-    height: 5px;
+    height: 3px;
     
 }
 .banner-color2{
     background-color: #769dff;
     width: 100%;
-    height: 5px;
+    height: 3px;
 }
 
 .center-piece{
