@@ -159,20 +159,24 @@ footer > div > a{
 }
 
 .red{
+    
     width: 50%;
     height: 800px;
-    background-color: blue;
+    background-color: #AABD8D;
+   
     
 }
 
 .green{
+    
     width: 50%;
     height: 400px;
-    background-color: #769dff;
+    background-color: white;
 }
 
 .blue{
+  
     width: 50%;
     height: 400px;
-    background-color: #AABD8D;
+    background-color: white;
 }
