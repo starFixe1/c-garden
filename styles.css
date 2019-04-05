@@ -88,7 +88,7 @@ h1, h2, h3, h4, h5, h6{
 }
 .color01{
     /* color: rgb(78, 102, 44); */
-    color: blue;
+    color: black;
 }
 
 #w-content{
@@ -133,7 +133,7 @@ footer > div > a{
     
 }
 .banner-color2{
-    background-color: rgb(#1456)
+    background-color: #769dff;
     width: 100%;
     height: 5px;
 }
