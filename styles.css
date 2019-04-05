@@ -12,11 +12,12 @@
 
 #center-logo{
    position: absolute;
-    float: right;
-    top: 0px;
-    Background-color: black;
-    border: solid thick white;
-    margin-left:80px;
+    float: left;
+    margin-top: 60px;
+    margin-left:20px;
+  
+    text-align: center;
+     color: white;
 }
 .fullwidth{
     width: 100%;
