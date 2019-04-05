@@ -135,6 +135,7 @@ footer > div > a{
     display:flex;
     flex-direction: column;
     padding-bottom: 4px;
+    padding: 10px;
 }
 
 .banner-color1{
