@@ -121,30 +121,29 @@ footer > div > a{
     line-height:150%;
     margin-bottom:10px;
 }
-.activity{
-  height: 1000px; 
-}
 
 .center-piece{
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
+    height: 1000px; 
     
-
 }
 
 .red{
     width: 50%;
-    height: 100%;
+    height: 800px;
     background-color: red;
 }
 
 .green{
     width: 50%;
+    height: 400px;
     background-color: green;
 }
 
 .blue{
     width: 50%;
+    height: 400px;
     background-color: blue;
 }
