@@ -10,13 +10,13 @@
     margin-left:20px;
 }
 
-.center-logo{
-    position: 
+#center-logo{
+   position: absolute;
     float: right;
     top: 0px;
-    right: 80px;
     Background-color: black;
     border: solid thick white;
+    margin-left:80px;
 }
 .fullwidth{
     width: 100%;
