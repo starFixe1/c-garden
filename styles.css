@@ -32,7 +32,7 @@ nav{
 }
 
 nav a{
-    color: blue;
+    color: #2a66ff;
     text-decoration: none;
 }
 
@@ -124,6 +124,7 @@ footer > div > a{
 .border-color{
     display:flex;
     flex-direction: column;
+    padding-bottom: 4px;
 }
 
 .banner-color1{
