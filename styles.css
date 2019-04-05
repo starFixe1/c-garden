@@ -121,6 +121,22 @@ footer > div > a{
     line-height:150%;
     margin-bottom:10px;
 }
+.border-color{
+    display:flex;
+    flex-direction: column;
+}
+
+.banner-color1{
+    background-color: #AABD8D;
+    width: 100%;
+    height: 5px;
+    
+}
+.banner-color2{
+    background-color: rgb(#1456)
+    width: 100%;
+    height: 5px;
+}
 
 .center-piece{
     display: flex;
