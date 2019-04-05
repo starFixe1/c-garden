@@ -150,17 +150,17 @@ footer > div > a{
 .red{
     width: 50%;
     height: 800px;
-    background-color: red;
+    background-color: blue;
 }
 
 .green{
     width: 50%;
     height: 400px;
-    background-color: green;
+    background-color: #769dff;
 }
 
 .blue{
     width: 50%;
     height: 400px;
-    background-color: blue;
+    background-color: #AABD8D;
 }
