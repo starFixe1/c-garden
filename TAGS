@@ -1,0 +1,67 @@
+
+about-the-swell.html,38
+About the Swell4,42
+Homelogo24,660
+
+aboutme.html,64
+All About Me10,231
+About Me61,1652
+Christian Gaertner63,1829
+
+index.html,162
+Home | White Water Rafting5,43
+Homelogo22,609
+We run rivers to relaxrow143,1410
+We float the river for the beautyrow266,2530
+Come run with usrow375,2929
+
+positioning.html,264
+Positioning Activity4,42
+WDD 100 positioning exercises9,200
+Activity 112,368
+Hint 113,394
+Activity 223,1074
+Hint 224,1100
+Activity 334,1934
+Hint 335,1960
+Activity 448,2776
+Hint 449,2802
+Activity 565,3739
+Hint 566,3765
+Activity 682,4682
+Hint 683,4708
+
+troubleshooting.html,104
+Whitewater rafting vacation | Dry Oar Boating | Home9,84
+Dry Oar13,278
+We run Rivers to relax.26,646
+
+positionstyles.css,125
+.hint i:before,before284,4731
+.hint i:before before291,4880
+.hint input[type=checkbox]:checked ~ i:after after301,5115
+
+styles.css,551
+    position:absolute;absolute5,75
+    top: 0px;px6,98
+    Background-color: black;7,112
+    border: solid thick white;8,141
+    margin-left:20px;px9,172
+h1,56,782
+h1, h2,56,782
+h1, h2, h3,56,782
+h1, h2, h3, h4,56,782
+h1, h2, h3, h4, h5,56,782
+    padding: 1.1em;em64,909
+    display:flex;flex65,929
+    flex-flow: row wrap;66,947
+    justify-content: center;67,972
+    Background-color: blanchedalmond;72,1016
+    text-align: center;85,1250
+    padding: 10px;px86,1274
+    margin: 0 auto;96,1470
+.left-column,column100,1494
+
+services.html,0
+
+fee.html,0
