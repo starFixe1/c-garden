@@ -11,12 +11,12 @@
 }
 
 .center-logo{
-    position: absolute;
+    position: 
     float: right;
     top: 0px;
+    right: 80px;
     Background-color: black;
     border: solid thick white;
-    margin-right: 20px;
 }
 .fullwidth{
     width: 100%;
