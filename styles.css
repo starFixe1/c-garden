@@ -185,11 +185,10 @@ footer > div > a{
     height: 267px;
     display:flex;
     flex-direction: row;
-  
     justify-content: space-between;
     align-items: center;
-    overflow: hidden;
-    
+    overflow: auto;
+
 }
 
 .right-image{
