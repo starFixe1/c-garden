@@ -132,7 +132,8 @@ footer > div > a{
     flex-direction: column;
     padding-bottom: 4px;
     padding: 10px;
-    
+    padding-left: 0px;
+    padding-right: 0px;
 
 }
 
@@ -153,6 +154,9 @@ footer > div > a{
     flex-direction: column;
     flex-wrap: wrap;
     height: 800px;
+    border-style: solid;
+    border-width: 5px;
+    border-color:#AABD8D;
     
 }
 
@@ -192,24 +196,8 @@ footer > div > a{
 
 }
 
-.right-image, .center{
+.right-image, .center-right, .center-left, .left-image{
   background-color: white;
-
-
-}
-.center-right{
-  background-color: white;
- 
-}
-
-.center-left{
-  background-color: white;
- 
-}
-
-.left-image{
-    background-color: white;
-
 }
 
 
