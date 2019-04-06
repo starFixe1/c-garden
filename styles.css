@@ -214,10 +214,10 @@ footer > div > a{
 }
 
 .center-piece-second{
-  width: 500px;
+  width: 800px;
   display:flex;
   flex-direction:row;
-  flex-wrap
+  flex-wrap: wrap;
 }
 
 .green-box{
