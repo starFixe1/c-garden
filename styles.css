@@ -11,13 +11,13 @@
 }
 
 #center-logo{
-   position: absolute;
+    position: absolute;
     float: left;
     margin-top: 60px;
     margin-left:20px;
-  
+    
     text-align: center;
-     color: white;
+    color: white;
 }
 .fullwidth{
     width: 100%;
@@ -103,7 +103,7 @@ h1, h2, h3, h4, h5, h6{
 
 #w-content{
     width: 100%;
-/* 0 is the top part and the auto is the left and right part of your webpage */
+    /* 0 is the top part and the auto is the left and right part of your webpage */
     margin: 0 auto;
 }
 
@@ -174,11 +174,11 @@ footer > div > a{
     width: 50%;
     height: 400px;
     background-color: white;
-  overflow: scroll;
+    overflow: scroll;
 }
 
 .blue{
-  
+    
     width: 50%;
     height: 400px;
     background-color: white;
@@ -198,7 +198,7 @@ footer > div > a{
 }
 
 .right-image, .center-right, .center-left, .left-image{
-  background-color: white;
+    background-color: white;
 }
 
 
