@@ -155,8 +155,7 @@ footer > div > a{
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    height: 800px; 
-  
+    height: 800px;
     
 }
 
@@ -165,7 +164,7 @@ footer > div > a{
     width: 50%;
     height: 800px;
     background-color:blanchedalmond;
-   
+    overflow: scroll;
     
 }
 
@@ -174,6 +173,7 @@ footer > div > a{
     width: 50%;
     height: 400px;
     background-color: white;
+  overflow: scroll;
 }
 
 .blue{
@@ -181,4 +181,5 @@ footer > div > a{
     width: 50%;
     height: 400px;
     background-color: white;
-}
+    overflow: scroll;
+} 
