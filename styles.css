@@ -132,6 +132,7 @@ footer > div > a{
     flex-direction: column;
     padding-bottom: 4px;
     padding: 10px;
+    
 
 }
 
@@ -191,7 +192,7 @@ footer > div > a{
 
 }
 
-.right-image{
+.right-image, .center{
   background-color: white;
 
 
