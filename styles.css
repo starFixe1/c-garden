@@ -185,8 +185,6 @@ footer > div > a{
     height: 267px;
     display:flex;
     flex-direction: row;
-    margin-left: 10px;
-    margin-right: 10px;
   
     justify-content: space-between;
     align-items: center;
