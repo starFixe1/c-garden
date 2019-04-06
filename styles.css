@@ -212,3 +212,31 @@ footer > div > a{
 footer > div > a{
     margin: 10px;
 }
+
+.center-piece-second{
+  
+}
+
+.green-box
+ <div class= "center-piece-second">
+          //column1
+          <div class="gree-box"></div>
+          
+          //column2
+          <div class="offset-left">
+          <div class="l-top-box"></div>
+          <div class="l-bottom-box"></div>
+          </div>
+            
+          //column2
+          <div lass="offset-right">
+          <div class="r-top-box"></div>
+          <div class="r-bottom-box"></div>
+          </div>
+          
+          //column4
+           <div class="gree-box"></div>
+            
+          
+        </div>
+
