@@ -183,3 +183,20 @@ footer > div > a{
     background-color: white;
     overflow: scroll;
 } 
+
+
+.bottom-images{
+    height: 300px;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-justify: center;
+}
+
+.right-image{
+
+}
+
+.left-image{
+    
+}
