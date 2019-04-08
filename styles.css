@@ -249,12 +249,13 @@ footer > div > a{
     flex-direction: row;
     flex-wrap: wrap;
     overflow: auto;
-    align-items:stretch;
+    justify-content:center;
 }
 
 .l-green-box{
     flex:1;
     background-color: #AABD8D;
+    margin: 20px;
    
 }
 
@@ -265,7 +266,6 @@ footer > div > a{
 
 .serv-l-top-box{
     height:75%;
-    background-color: grey;
   flex:1;
   overflow: auto;
 }
@@ -273,8 +273,6 @@ footer > div > a{
 
 .serv-l-bottom-box{
     height:25%;
-    overflow: auto;
-    background-color: yellow; 
   flex:1;
 }
 
@@ -285,7 +283,6 @@ footer > div > a{
 
 .serv-r-top-box{
     height:25%;
-    background-color: maroon;
   flex:1;
 
 }
@@ -293,19 +290,17 @@ footer > div > a{
 
 .serv-r-bottom-box{
     height:75%;
-    background-color: olive;
   flex:1;
-  overflow: auto;
+  overflow: scroll;
 }
 
 .r-green-box{
   flex:1;
-    background-color: #AABD8D;    
+    background-color: #AABD8D;   
+   margin: 20px;
 }
 
-#serve-l-bottom-box-image{
-   top: 50%;
-   left: 50%;
-   margin-top: 250px; /* Half the height */
-   margin-left: 250px; /* Half the width */
+.serve-images{
+   height: 100%;
+   width: 100%;
 }
