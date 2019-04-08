@@ -317,14 +317,18 @@ footer > div > a{
   float: left;
     height: 100%;
   flex-direction:column;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .circle-image{
    flex:1; 
   background-color: blue;
+  order:1;
 }
 
 .contact-us-contents{
    flex:1; 
-    background-color: orange;
+    background-color: blanchedalmond;
+  order:2;
 }
