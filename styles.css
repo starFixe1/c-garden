@@ -246,7 +246,7 @@ footer > div > a{
 .center-piece-second {
     height: 800px;
     display:flex;
-    flex-direction: column;
+    flex-direction: row;
     flex-wrap: wrap;
     flex-basis: 30%;
 }
@@ -264,15 +264,16 @@ footer > div > a{
 
 .serv-l-top-box{
     height:75%;
-    width:25%;
     background-color: grey;
+  flex:1;
 }
 
 
 .serv-l-bottom-box{
     height:25%;
-    width:25%;
-    background-color: yellow;    
+
+    background-color: yellow; 
+  flex:1;
 }
 
 .serv-offset-right{
@@ -282,23 +283,18 @@ footer > div > a{
 
 .serv-r-top-box{
     height:25%;
-    width:25%;
     background-color: maroon;
+  flex:1;
 }
 
 
 .serv-r-bottom-box{
     height:75%;
-    width:25%;
     background-color: olive;
+  flex:1;
 }
 
 .r-green-box{
   flex:1;
     background-color: green;    
-}
-
-.middle-content{
-  flex:1;
-  display:
 }
