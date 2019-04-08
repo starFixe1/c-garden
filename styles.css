@@ -313,28 +313,25 @@ footer > div > a{
 }
 
 
-.contact-us-box{
-  display:flex;
-  float: left;
-    height: 100%;
-  flex-direction:column;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-
-.circle-image{
-   flex:1; 
-  background-color: blue;
-  order:1;
-}
-
 .contact-us-contents{
-   flex:1; 
+   display:flex;
     background-color: blanchedalmond;
   order:2;
   margin-left:30%;
   margin-right:30%;
   border-style:solid;
+  height: 100%;
+  flex-direction:column;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+
+.circle-image{
+   flex:1; 
+  background-color: blue;
+  height:100px;
+  order:1;
 }
 
 #contact-us-text1{
