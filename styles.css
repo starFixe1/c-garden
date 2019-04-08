@@ -243,7 +243,7 @@ footer > div > a{
 
 
 
-.center-piece-second div{
+.center-piece-second {
     height: 800px;
     display:flex;
     flex-direction: column;
@@ -300,4 +300,5 @@ footer > div > a{
 
 .middle-content{
   flex:1;
+  display:
 }
