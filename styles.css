@@ -213,15 +213,8 @@ footer > div > a{
     margin: 10px;
 }
 
-.center-piece-second{
-  width: 800px;
-  display:flex;
-  flex-direction:row;
-  flex-wrap: wrap;
-}
-
 .green-box{
-  background-color:green;
+    background-color:green;
 }
 
 .offset-left{
@@ -250,3 +243,67 @@ footer > div > a{
 
 
 
+.center-piece-second{
+    width: 800px;
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.l-green-box{
+    height:100%;
+    width: 25%;
+    background-color: red;
+}
+
+.offset-left{
+    height:100%;
+    width:25%;
+    background-color: blue;    
+}
+
+
+.l-top-box{
+    height:75%;
+    width:25%;
+    background-color: grey;
+}
+
+
+.l-bottom-box{
+    height:25%;
+    width:25%;
+    background-color: yellow;    
+}
+
+.offset-right{
+    height:100%;
+    width:25%;
+    background-color: lime;
+}
+
+
+.r-top-box{
+    height:25%;
+    width:25%;
+    background-color: maroon;
+}
+
+
+.r-bottom-box{
+    height:25%;
+    width:25%;
+    background-color: navy;
+}
+
+.r-bottom-box{
+    height:25%;
+    width:25%;
+    background-color: olive;
+}
+
+.r-green-box{
+    height:100%;
+    width: 25%;
+    background-color: green;    
+}
