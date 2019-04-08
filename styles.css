@@ -313,6 +313,18 @@ footer > div > a{
 
 
 .contact-us-box{
-   float: left;
+  display:flex;
+  float: left;
     height: 100%;
+  flex-direction:column;
+}
+
+.circle-image{
+   flex:1; 
+  background-color: blue;
+}
+
+.contact-us-contents{
+   flex:1; 
+    background-color: orange;
 }
