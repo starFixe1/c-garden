@@ -249,6 +249,7 @@ footer > div > a{
     flex-direction: row;
     flex-wrap: wrap;
     flex-basis: 30%;
+    overflow: auto;
 }
 
 .l-green-box{
@@ -258,7 +259,7 @@ footer > div > a{
 }
 
 .serv-offset-left{
-   flex:1;
+   flex:3;
 }
 
 
@@ -277,7 +278,7 @@ footer > div > a{
 }
 
 .serv-offset-right{
-   flex:1;
+   flex:3;
 }
 
 
