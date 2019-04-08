@@ -250,6 +250,7 @@ footer > div > a{
     flex-wrap: wrap;
     overflow: auto;
     align-content:stretch;
+    justify-content: space-between;
 }
 
 .l-green-box{
@@ -268,12 +269,14 @@ footer > div > a{
     height:75%;
   flex:1;
   overflow: auto;
+  margin-right: 15px;
 }
 
 
 .serv-l-bottom-box{
     height:25%;
   flex:1;
+   margin-right: 15px;
 }
 
 .serv-offset-right{
@@ -284,6 +287,7 @@ footer > div > a{
 .serv-r-top-box{
     height:25%;
   flex:1;
+   margin-left: 15px;
 
 }
 
@@ -291,7 +295,8 @@ footer > div > a{
 .serv-r-bottom-box{
     height:75%;
   flex:1;
-  overflow: scroll;
+  overflow: auto;
+   margin-left: 15px;
 }
 
 .r-green-box{
