@@ -273,7 +273,7 @@ footer > div > a{
 
 .serv-l-bottom-box{
     height:25%;
-
+    overflow: auto;
     background-color: yellow; 
   flex:1;
 }
@@ -304,5 +304,8 @@ footer > div > a{
 }
 
 #serve-l-bottom-box-image{
-  
+   top: 50%;
+   left: 50%;
+   margin-top: 250px; /* Half the height */
+   margin-left: 250px; /* Half the width */
 }
