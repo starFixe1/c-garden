@@ -331,4 +331,12 @@ footer > div > a{
    flex:1; 
     background-color: blanchedalmond;
   order:2;
+  margin-left:500px;
+}
+
+#contact-us-text{
+  color: green;
+  text-align: center;
+  line-height: 200%;
+  text-shadow: 3px 2px white;
 }
