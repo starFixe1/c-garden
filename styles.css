@@ -249,13 +249,13 @@ footer > div > a{
     flex-direction: row;
     flex-wrap: wrap;
     overflow: auto;
-    justify-content:center;
+    align-content:stretch;
 }
 
 .l-green-box{
     flex:1;
     background-color: #AABD8D;
-    margin: 20px;
+    margin-right: 40px;
    
 }
 
@@ -297,10 +297,12 @@ footer > div > a{
 .r-green-box{
   flex:1;
     background-color: #AABD8D;   
-   margin: 20px;
+  margin-left: 40px;
 }
+
 
 .serve-images{
    height: 100%;
    width: 100%;
 }
+
