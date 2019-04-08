@@ -305,3 +305,7 @@ footer > div > a{
     width: 25%;
     background-color: green;    
 }
+
+.middle-content{
+  padding:10px;
+}
