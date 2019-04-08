@@ -245,8 +245,9 @@ footer > div > a{
 
 .center-piece-second{
     height: 800px;
+    width: 100%;
     display:flex;
-    flex-direction: column;
+    flex-direction: row;
     flex-wrap: wrap;
     overflow: auto;
 }
@@ -257,45 +258,45 @@ footer > div > a{
     background-color: red;
 }
 
-.offset-left{
+.serv-offset-left{
     height:100%;
     width:25%;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     overflow: auto;
 }
 
 
-.l-top-box{
+.serv-l-top-box{
     height:75%;
     width:25%;
     background-color: grey;
 }
 
 
-.l-bottom-box{
+.serv-l-bottom-box{
     height:25%;
     width:25%;
     background-color: yellow;    
 }
 
-.offset-right{
+.serv-offset-right{
     height:100%;
     width:25%;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     overflow: auto;
 }
 
 
-.r-top-box{
+.serv-r-top-box{
     height:25%;
     width:25%;
     background-color: maroon;
 }
 
 
-.r-bottom-box{
+.serv-r-bottom-box{
     height:25%;
     width:25%;
     background-color: olive;
