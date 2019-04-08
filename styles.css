@@ -245,7 +245,7 @@ footer > div > a{
 
 
 .center-piece-second {
-    height: 800px;
+    height: 1000px;
     display:flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -313,19 +313,8 @@ footer > div > a{
 }
 
 
-.contact-us-box{
-  display:flex;
-  float: left;
-    height: 100%;
-  flex-direction:column;
-  flex-wrap: wrap;
-  justify-content: center;
-}
 
-.circle-image{
-   flex:1; 
-  order:1;
-}
+
 
 .contact-us-contents{
    flex:1; 
@@ -336,8 +325,14 @@ footer > div > a{
   border-style:solid;
 }
 
+.circle-image{
+   flex:1; 
+  order:1;
+}
+
 #contact-us-text1{
   font-family: 'Rock Salt', cursive;
+  letter-spacing: 6px;
   font-weight: bold;
   color: black;
    font-size: 30px;
@@ -347,7 +342,7 @@ footer > div > a{
   overflow: auto;
 }
 #contact-us-text2{
-  color: blue;
+  color: teal;
   font-family: 'Alfa Slab One', cursive;
    font-size: 18px;
   text-align: center;
