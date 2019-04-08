@@ -257,57 +257,57 @@ footer > div > a{
     flex:1;
     background-color: #AABD8D;
     margin-right: 40px;
-   
+    
 }
 
 .serv-offset-left{
-  flex:3;
+    flex:3;
 }
 
 
 .serv-l-top-box{
     height:75%;
-  flex:1;
-  overflow: auto;
-  margin-right: 15px;
+    flex:1;
+    overflow: auto;
+    margin-right: 15px;
 }
 
 
 .serv-l-bottom-box{
     height:25%;
-  flex:1;
-   margin-right: 15px;
+    flex:1;
+    margin-right: 15px;
 }
 
 .serv-offset-right{
-   flex:3;
+    flex:3;
 }
 
 
 .serv-r-top-box{
     height:25%;
-  flex:1;
-   margin-left: 15px;
+    flex:1;
+    margin-left: 15px;
 
 }
 
 
 .serv-r-bottom-box{
     height:75%;
-  flex:1;
-  overflow: auto;
-   margin-left: 15px;
+    flex:1;
+    overflow: auto;
+    margin-left: 15px;
 }
 
 .r-green-box{
-  flex:1;
+    flex:1;
     background-color: #AABD8D;   
-  margin-left: 40px;
+    margin-left: 40px;
 }
 
 
 .serve-images{
-   height: 100%;
-   width: 100%;
+    height: 100%;
+    width: 100%;
 }
 
