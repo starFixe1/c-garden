@@ -269,14 +269,14 @@ footer > div > a{
     height:75%;
     flex:1;
     overflow: auto;
-    margin-right: 15px;
+    margin-right: 35px;
 }
 
 
 .serv-l-bottom-box{
     height:25%;
     flex:1;
-    margin-right: 15px;
+    margin-right: 35px;
 }
 
 .serv-offset-right{
@@ -287,7 +287,7 @@ footer > div > a{
 .serv-r-top-box{
     height:25%;
     flex:1;
-    margin-left: 15px;
+    margin-left: 35px;
 
 }
 
@@ -296,7 +296,7 @@ footer > div > a{
     height:75%;
     flex:1;
     overflow: auto;
-    margin-left: 15px;
+    margin-left: 35px;
 }
 
 .r-green-box{
