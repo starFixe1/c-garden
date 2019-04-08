@@ -245,7 +245,6 @@ footer > div > a{
 
 .center-piece-second{
     height: 800px;
-    width: 100%;
     display:flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -261,7 +260,6 @@ footer > div > a{
 .serv-offset-left{
     height:100%;
     width:25%;
-    display: flex;
     flex-direction: column;
     overflow: auto;
 }
@@ -283,7 +281,6 @@ footer > div > a{
 .serv-offset-right{
     height:100%;
     width:25%;
-    display: flex;
     flex-direction: column;
     overflow: auto;
 }
@@ -297,7 +294,7 @@ footer > div > a{
 
 
 .serv-r-bottom-box{
-    height:25%;
+    height:75%;
     width:25%;
     background-color: olive;
 }
