@@ -246,9 +246,8 @@ footer > div > a{
 .center-piece-second{
     height: 800px;
     display:flex;
-    flex-direction: row;
+    flex-direction: column;
     flex-wrap: wrap;
-    overflow: auto;
 }
 
 .l-green-box{
@@ -260,7 +259,8 @@ footer > div > a{
 .serv-offset-left{
     height:100%;
     width:25%;
-    flex-direction: column;
+    flex-direction: row;
+    flex-wrap: wrap;
     overflow: auto;
 }
 
@@ -281,7 +281,8 @@ footer > div > a{
 .serv-offset-right{
     height:100%;
     width:25%;
-    flex-direction: column;
+    flex-direction: row;
+    flex-wrap: wrap;
     overflow: auto;
 }
 
