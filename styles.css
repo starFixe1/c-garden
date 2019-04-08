@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Rock+Salt');
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One');
 
 
 #logo{
@@ -331,12 +332,17 @@ footer > div > a{
    flex:1; 
     background-color: blanchedalmond;
   order:2;
-  margin-left:500px;
+  margin-left:35%;
+  margin-right:35%;
+  border-style:solid;
 }
 
 #contact-us-text{
-  color: green;
+  color: black;
+  font-family: 'Alfa Slab One', cursive;
+   font-size: 18px;
   text-align: center;
   line-height: 200%;
   text-shadow: 3px 2px white;
+  overflow: auto;
 }
