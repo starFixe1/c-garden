@@ -69,7 +69,7 @@ h1, h2, h3, h4, h5, h6{
 
     color: #7ca6bb;
     font-family: 'Rock Salt', cursive;
-    margin-bottom: -15px;
+    margin-bottom: -10px;
 }
 
 #row1, #row2{
@@ -339,8 +339,9 @@ footer > div > a{
 
 #contact-us-text1{
   font-family: 'Rock Salt', cursive;
+   letter-spacing: 6px;
   font-weight: bold;
-  color: black;
+  color: #769dff;
    font-size: 30px;
   text-align: center;
   text-height:10px;
@@ -355,4 +356,5 @@ footer > div > a{
   line-height: 200%;
   text-shadow: 3px 2px white;
   overflow: auto;
+
 }
