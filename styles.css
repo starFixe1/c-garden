@@ -248,18 +248,18 @@ footer > div > a{
     display:flex;
     flex-direction: row;
     flex-wrap: wrap;
-    flex-basis: 30%;
     overflow: auto;
+    align-items:stretch;
 }
 
 .l-green-box{
     flex:1;
-    background-color: red;
+    background-color: #AABD8D;
    
 }
 
 .serv-offset-left{
-   flex:3;
+  flex:3;
 }
 
 
@@ -267,6 +267,7 @@ footer > div > a{
     height:75%;
     background-color: grey;
   flex:1;
+  overflow: auto;
 }
 
 
@@ -286,6 +287,7 @@ footer > div > a{
     height:25%;
     background-color: maroon;
   flex:1;
+
 }
 
 
@@ -293,9 +295,10 @@ footer > div > a{
     height:75%;
     background-color: olive;
   flex:1;
+  overflow: auto;
 }
 
 .r-green-box{
   flex:1;
-    background-color: green;    
+    background-color: #AABD8D;    
 }
