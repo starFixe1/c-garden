@@ -313,37 +313,40 @@ footer > div > a{
 }
 
 
+
+
+
 .contact-us-contents{
-    flex:1; 
+   flex:1; 
     background-color: blanchedalmond;
-    order:2;
-    margin-left:30%;
-    margin-right:30%;
-    border-style:solid;
+  order:2;
+  margin-left:30%;
+  margin-right:30%;
+  border-style:solid;
 }
 
 .circle-image{
-    flex:1; 
-    order:1;
+   flex:1; 
+  order:1;
 }
 
 #contact-us-text1{
-    font-family: 'Rock Salt', cursive;
-    letter-spacing: 6px;
-    font-weight: bold;
-    color: black;
-    font-size: 30px;
-    text-align: center;
-    text-height:10px;
-    text-shadow: 3px 2px white;
-    overflow: auto;
+  font-family: 'Rock Salt', cursive;
+  letter-spacing: 6px;
+  font-weight: bold;
+  color: black;
+   font-size: 30px;
+  text-align: center;
+  text-height:10px;
+  text-shadow: 3px 2px white;
+  overflow: auto;
 }
 #contact-us-text2{
-    color: teal;
-    font-family: 'Alfa Slab One', cursive;
-    font-size: 18px;
-    text-align: center;
-    line-height: 200%;
-    text-shadow: 3px 2px white;
-    overflow: auto;
+  color: teal;
+  font-family: 'Alfa Slab One', cursive;
+   font-size: 18px;
+  text-align: center;
+  line-height: 200%;
+  text-shadow: 3px 2px white;
+  overflow: auto;
 }
