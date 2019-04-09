@@ -1,3 +1,5 @@
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat+Alternates');
 @import url('https://fonts.googleapis.com/css?family=Rock+Salt');
 @import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One');
 
@@ -349,4 +351,8 @@ footer > div > a{
   line-height: 200%;
   text-shadow: 3px 2px white;
   overflow: auto;
+}
+
+.monte-format{
+font-family: 'Montserrat Alternates', sans-serif;
 }
